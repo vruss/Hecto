@@ -10,12 +10,12 @@ and finish the guided project. I'd also like to extend the editor in the future 
 
 ---
 
-###### Progress: Chapter 4, A line viewer
+###### Progress: Chapter 4, Scrolling
 
 ### Compiling and running
 
 Clone the repository and make sure to install Rust with Rustup.
-You can compile and run the program by typing `cargo run` on the commandline.
+You can compile and run the program by typing `cargo run [filename]` on the commandline.
 
 ### Sources
 

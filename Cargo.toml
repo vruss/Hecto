@@ -1,5 +1,5 @@
 [package]
-name = "Hectro"
+name = "hectro"
 version = "0.1.0"
 authors = ["Viktor Rosvall <virosen@yahoo.se>"]
 edition = "2018"
